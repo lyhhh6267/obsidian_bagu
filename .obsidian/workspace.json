@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "1dcf806aa0ff5c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61de97a1544e08f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dcc570203d60b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股/计网.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e079f3a2a4d8e39f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe35fb63ca0ad160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b20e7528a3ef7718",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b66a956af0d7d22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fa235bc8f1ce12a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6d3507ab07790694",
+    "type": "split",
+    "children": [
+      {
+        "id": "980ca86814f0e885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e83eae3fddf05038",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "八股/计网.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13d15a0b5f091f04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "八股/计网.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14f421b3338fe84f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a1bbd241caee992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "八股/计网.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "6dcc570203d60b94",
+  "lastOpenFiles": [
+    "八股/golang.md",
+    "八股/sql.md",
+    "八股/os.md",
+    "images/Pasted image 20230303012410.png",
+    "images/Pasted image 20230303012356.png",
+    "images/Pasted image 20230303012349.png",
+    "images/Pasted image 20230303011748.png",
+    "images/Pasted image 20230303011741.png",
+    "images/Pasted image 20230303011721.png",
+    "images/Pasted image 20230303011713.png",
+    "images/Pasted image 20230302195516.png",
+    "images/Pasted image 20230302152416.png",
+    "八股/计网.md",
+    "八股/redis.md",
+    "计网/课程/1 概述.md",
+    "images/未命名 1.md",
+    "计网/课程/4 网络层.md",
+    "计网/课程/3 数据链路层.md",
+    "计网/课程/6 应用层.md"
+  ]
+}
