@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dea5b95f91d081a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股/golang.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "八股/计网.md",
+                "file": "八股/golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "八股/计网.md",
+                "file": "八股/golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股/计网.md"
+                "file": "八股/golang.md"
               }
             }
           }
@@ -147,11 +160,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6dcc570203d60b94",
+  "active": "3dea5b95f91d081a",
   "lastOpenFiles": [
-    "八股/golang.md",
+    "八股/计网.md",
+    "计网/课程/1 概述.md",
     "八股/sql.md",
+    "八股/redis.md",
     "八股/os.md",
+    "八股/golang.md",
+    "八股/asd.md",
     "images/Pasted image 20230303012410.png",
     "images/Pasted image 20230303012356.png",
     "images/Pasted image 20230303012349.png",
@@ -161,9 +178,6 @@
     "images/Pasted image 20230303011713.png",
     "images/Pasted image 20230302195516.png",
     "images/Pasted image 20230302152416.png",
-    "八股/计网.md",
-    "八股/redis.md",
-    "计网/课程/1 概述.md",
     "images/未命名 1.md",
     "计网/课程/4 网络层.md",
     "计网/课程/3 数据链路层.md",
